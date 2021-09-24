@@ -1,0 +1,11 @@
+Update ++ - 9/23/21 | The batch file has been updated, we are aware of some hacking into our files, so we have secured it with Avast, to make sure files arent stolen.
+
+
+UPCOMING UPDATES 
+_____________________________________________
+
+
+Update +++ (3) - We will be adding more support for x32 bit computers that have Windows 7 and newer. Current supported operating systems are Windows 8/8.1, Windows 10, Windows 11 (not full support)
+
+
+Update ++++ (4) - We will make a debian package so you can use this program yourself on Ubuntu/Linux
